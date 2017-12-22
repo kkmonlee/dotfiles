@@ -1,0 +1,15 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme",
+    "editor.fontFamily": "Hack",
+    "editor.fontSize": 13,
+    "editor.tabSize": 4,
+    "editor.scrollBeyondLastLine": true,
+    "workbench.welcome.enabled": false,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "material-icon-theme.showUpdateMessage": false,
+    "python.linting.enabledWithoutWorkspace": false,
+    "window.zoomLevel": 0,
+    "java.errors.incompleteClasspath.severity": "ignore"
+}
